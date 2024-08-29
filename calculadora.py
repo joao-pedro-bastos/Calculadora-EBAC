@@ -1,12 +1,6 @@
-"""Utilize o comando ‘input’ para receber ao menos 2 números de entrada do usuário;
-
-Converta os valores recebidos pelo usuário para número inteiro (int) ou ponto flutuante (float);
-
-Implemente ao menos 4 operações matemáticas em seu código;
-
-Adicione um laço de repetição ou uma condicional. Por exemplo: você pode permitir que o usuário escolha qual operação realizar ou criar um loop que permita ao usuário realizar várias operações consecutivas;
-
-Utilize o comando ‘print’ para exibir o resultado da operação matemática."""
+""" Utilizei o comando 'input' para receber dois números de entrada do usuário, converti os valores recebidos pelo usuário para números reais 'float',
+implementei 4 operações matemáticas 'adição, subtração, multiplicação e divisão', e por fim, adicionei duas estruturas, uma de repetição 'loop' e uma estrutura condicional 'if, elif, else'.
+Para que o usuário saia da estrutura de repetição 'loop', ele deve responder "Não" quando lhe for perguntado se pretende continuar realizando novos cálculos. """
 
 # Variáveis
 lista_Sim = ['Sim', 'SIM', 'sim', 's', 'S']
