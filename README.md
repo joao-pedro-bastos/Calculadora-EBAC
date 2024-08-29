@@ -1,6 +1,6 @@
-## Calculadora em Python
+# Calculadora em Python
 
-# Como executar o arquivo.sh:
+## Como executar o arquivo.sh:
 Para executar o arquivo.sh você deve abrir o seu PowerShell em modo administrador, já com o arquivo.sh baixado em seu computador, 
 crie um diretório para ele:
 ![image](https://github.com/user-attachments/assets/da99aec6-3e04-4d00-8fe2-831dd5b8dc4a)
